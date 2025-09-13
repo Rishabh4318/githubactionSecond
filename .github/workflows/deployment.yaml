@@ -13,8 +13,6 @@ on:
       - main
       - 'dev-*'
       - 'feat/**'
-    path-ignore:
-      -'.github/workflows/*'
 
 jobs:
   test:
