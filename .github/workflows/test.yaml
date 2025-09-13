@@ -1,6 +1,6 @@
 name: Test workflow
 on: push
-job:
+jobs:
   test:
     runs-on: ubuntu-latest
     steps:
